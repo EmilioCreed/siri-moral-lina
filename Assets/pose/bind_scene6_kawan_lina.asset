@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae0543fe805424df99fe08ce744cbe49, type: 3}
+  m_Name: bind_scene6_kawan_lina
+  m_EditorClassIdentifier: 
+  m_PoseEntries:
+  - path: bone kawan lina/hips
+    localPosition: {x: -1.9174122, y: -4.0948844, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.70710677, w: 0.7071069}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: bone kawan lina/hips/torso
+    localPosition: {x: 1.2630612, y: 0.00000011920929, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.0033403009, w: 0.99999446}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: bone kawan lina/hips/torso/head
+    localPosition: {x: 2.3159454, y: -0.0000000062555614, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.0033402473, w: 0.99999446}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: bone kawan lina/hips/torso/right_arm_KL1
+    localPosition: {x: 0.73810107, y: -0.635582, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.9992679, w: -0.03825922}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: bone kawan lina/hips/torso/right_arm_KL1/right_arm_KL2
+    localPosition: {x: 1.8750446, y: 0.00000044703484, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.04462266, w: 0.99900395}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: bone kawan lina/hips/torso/left_arm_KL1
+    localPosition: {x: 0.650622, y: 1.36788, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.9990961, w: 0.04251019}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: bone kawan lina/hips/torso/left_arm_KL1/left_arm_KL2
+    localPosition: {x: 1.8743098, y: -0.000000059604645, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.044186667, w: 0.9990233}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: bone kawan lina/hips/rights_leg_kwn_lina1
+    localPosition: {x: 0.5153733, y: -0.18247217, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.99982, w: 0.01897464}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: bone kawan lina/hips/rights_leg_kwn_lina1/rights_leg_kwn_lina2
+    localPosition: {x: 2.09922, y: 0, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.000044991197, w: 1}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: bone kawan lina/hips/rights_leg_kwn_lina1/rights_leg_kwn_lina2/rights_leg_kwn_lina3
+    localPosition: {x: 2.2462122, y: 0.00000008920242, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.7073628, w: 0.70685077}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: bone kawan lina/hips/left_leg_kwn_lina1
+    localPosition: {x: 0.4677881, y: 0.67404526, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.99991006, w: 0.013415189}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: bone kawan lina/hips/left_leg_kwn_lina1/left_leg_kwn_lina2
+    localPosition: {x: 1.9857321, y: -0.00000043213367, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.0018087856, w: 0.9999984}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: bone kawan lina/hips/left_leg_kwn_lina1/left_leg_kwn_lina2/left_leg_kwn_lina3
+    localPosition: {x: 2.3756135, y: 0.00000003481301, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.70473796, w: 0.7094677}
+    localScale: {x: 1, y: 1, z: 1}
