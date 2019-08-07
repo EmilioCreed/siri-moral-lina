@@ -246,7 +246,7 @@ PlayerSettings:
   AndroidTargetArchitectures: 5
   AndroidSplashScreenScale: 0
   androidSplashScreen: {fileID: 0}
-  AndroidKeystoreName: /Volumes/WORK20/Kray/Dewan Bahasa Pustaka/mzrgroup.keystore
+  AndroidKeystoreName: /Users/mzrgroup03/Desktop/mzrgroup.keystore
   AndroidKeyaliasName: mzrglobal
   AndroidBuildApkPerCpuArchitecture: 0
   AndroidTVCompatibility: 1
